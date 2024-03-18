@@ -12,3 +12,5 @@ platform: Windows 10
 1. Run `firebase init hosting --project <project_id>`
    - Select all default
 1. Run `firebase deploy`
+1. Vist "project_id.web.app"
+   - Image is not loaded
